@@ -1,2 +1,2 @@
 # CreditSYNC
-Processing and automating financial statements using Databricks. With automated credit/debit transaction processing and statements processing system. 
+CreditSYNC is a cloud-based, data-driven solution designed to process incremental financial transactions seamlessly. It ingests, cleans, and warehouses data before generating personalized customer statements. It works on the famous medallion architecture. Built using Azure Databricks, Azure Data Factory, and Delta Lake it automates the entire pipeline, ensuring secure, efficient, and real-time statement delivery via Azure Logic Apps.
